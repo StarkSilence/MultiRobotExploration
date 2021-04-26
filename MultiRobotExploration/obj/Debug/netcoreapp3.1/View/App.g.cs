@@ -44,7 +44,7 @@ namespace MultiRobotExploration {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.4.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.5.0")]
         public void InitializeComponent() {
             
             #line 5 "..\..\..\..\View\App.xaml"
@@ -59,7 +59,7 @@ namespace MultiRobotExploration {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.4.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.5.0")]
         public static void Main() {
             MultiRobotExploration.App app = new MultiRobotExploration.App();
             app.InitializeComponent();

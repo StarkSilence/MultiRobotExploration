@@ -25,7 +25,7 @@ namespace MultiRobotExploration.View
             RenderOptions.SetBitmapScalingMode(MainEnvironment, BitmapScalingMode.NearestNeighbor);
             RenderOptions.SetEdgeMode(MainEnvironment, EdgeMode.Aliased);
             
-            MainEnvironment.Source = ViewModel.EnvironmentBmp;
+            MainEnvironment.Source = ViewModel.EnvironmentBitmap.Bitmap;
             DataContext = ViewModel;
         }
 
@@ -37,7 +37,7 @@ namespace MultiRobotExploration.View
         private void CreateEnvButton_OnClick(object sender, RoutedEventArgs e)
         {
             ViewModel.CreateNewEnvironment();
-            MainEnvironment.Source = ViewModel.EnvironmentBmp;
+            MainEnvironment.Source = ViewModel.EnvironmentBitmap.Bitmap;
         }
 
         private async void AutoStepButton_OnClick(object sender, RoutedEventArgs e)

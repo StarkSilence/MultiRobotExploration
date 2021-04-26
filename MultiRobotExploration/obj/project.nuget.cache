@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OXzni2TU1Dh5p1tT33yV3xLgo2pNNlXzaX8m2Pk/24xwPkvmKU4zryHDp6wUwo1xXv5lJ0eg5rNxCHIOkfHGkA==",
+  "dgSpecHash": "V7TAcspLbVIS1fPPHR6q4Xaj25YurSVkvuse8A26lNUOKQJ/7jEdJ68zaCmsZDWaDsq9UF2OCJUBofFcVIWfAg==",
   "success": true,
   "projectFilePath": "F:\\Repositories\\MultiRobotExploration\\MultiRobotExploration\\MultiRobotExploration.csproj",
   "expectedPackageFiles": [
@@ -77,11 +77,7 @@
     "C:\\Users\\ChaseW\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\ChaseW\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\ChaseW\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\ChaseW\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\ChaseW\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\ChaseW\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\ChaseW\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\ChaseW\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+    "C:\\Users\\ChaseW\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
